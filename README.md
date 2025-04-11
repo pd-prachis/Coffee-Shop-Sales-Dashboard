@@ -1,6 +1,7 @@
 # Coffee Shop Sales Dashboard
 
 ### 📊 Dashboard Link: https://app.powerbi.com/groups/me/reports/34e05a5a-641b-497a-a0cd-8518b785e3e4/6e783991092001404971?experience=power-bi
+### 📊 PDF Link: https://github.com/pd-prachis/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard.pdf
 
 ---
 
